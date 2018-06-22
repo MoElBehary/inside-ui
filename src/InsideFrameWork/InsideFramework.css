@@ -2,8 +2,17 @@
 .margin-auto{
      margin: auto;
 }
-.marign-10{
+.margin-10{
      margin:10px;
+}
+.margin-r-20{
+     margin-right: 20px;
+}
+.margin-b-20{
+     margin-bottom: 20px;
+}
+.margin-l-20{
+     margin-left: 20px;
 }
 .margin-40{
      margin:40px;
@@ -11,15 +20,13 @@
 .margin-r-40{
      margin-right: 40px;
 }
-.margin-l-40{
-     margin-left: 40px;
-}
-.margin-b-20{
-     margin-bottom: 20px;
-}
 .margin-b-40{
      margin-bottom: 40px;
 }
+.margin-l-40{
+     margin-left: 40px;
+}
+
 /*margin === END ==  */
 /*padding --- START ---  */
 .padding-20{
@@ -124,6 +131,12 @@
 }
 .gray-bc{
      background-color: #EEEEEE;
+}
+.white-c{
+     color: #FFFFFF;
+}
+.white-bc{
+     background-color: #FFFFFF;
 }
 /* Accept Color */
 .green-c{

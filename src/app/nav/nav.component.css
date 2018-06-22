@@ -1,6 +1,7 @@
 .nav{
      height:40px;
 }
+/*  Holders */
 .holder-one{
      height: 30px;
      width: 413px;
@@ -9,16 +10,17 @@
 }
 .holder-user-fun{
      display: inline-block;
-     height: 30px;
-     width: 60px;
-     padding: 5px 0;
+     height: 20px;
+     width: 180px;
+     padding: 10px 0;
 }
 .holder-user-acc{
      display: inline-block;
      height: 30px;
-     width: 60px;
+     width: 260px;
      padding: 5px 0;
 }
+/* Buttons & icons */
 .inside-logo{
      margin: 5px 40px 5px 0;
      height:20px;
@@ -35,51 +37,15 @@
      background-position: center;
      background-repeat: no-repeat;
 }
-.cart-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/cart.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 40px 5px 0;
+.nav-icons{
+     height: 20px;
+     width: 20px;
 }
-.store-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/store.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 40px 5px 0;
+.nav-sign-up{
+     height:30px;
+     border-radius: 4px 0 0 4px ;
 }
-.avatar-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/avatar.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 80px 5px 0;
-}
-.msg-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/msg.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 40px 5px ;
-}
-.noti-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/msg.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 40px 5px ;
-}
-.user-button{
-     height:20px;
-     width:20px;
-     background-image: url("../../assets/Icon/msg.png");
-     background-position: center;
-     background-repeat: no-repeat;
-     margin: 5px 40px 5px ;
+.nav-sign-in{
+     height:30px;
+     border-radius: 0 4px 4px 0 ;
 }
