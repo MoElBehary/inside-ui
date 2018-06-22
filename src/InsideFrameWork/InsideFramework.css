@@ -5,6 +5,9 @@
 .margin-10{
      margin:10px;
 }
+.margin-t-20{
+     margin-top: 20px;
+}
 .margin-r-20{
      margin-right: 20px;
 }
@@ -32,8 +35,14 @@
 .padding-20{
      padding:20px;
 }
+.padding-t-20{
+     padding-top: 20px;
+}
 .padding-r-20{
      padding-right: 20px;
+}
+.padding-b-20{
+     padding-bottom:20px;
 }
 .padding-l-20{
      padding-left:20px;
@@ -47,8 +56,26 @@
 .padding-r-40{
      padding-right: 40px;
 }
+.padding-b-40{
+     padding-bottom: 40px;
+}
 .padding-l-40{
      padding-left: 40px;
+}
+.padding-80{
+     padding:80px;
+}
+.padding-t-80{
+     padding-top: 80px;
+}
+.padding-r-80{
+     padding-right: 80px;
+}
+.padding-b-80{
+     padding-bottom: 80px;
+}
+.padding-l-80{
+     padding-left: 80px;
 }
 /*padding === END ===  */
 /*border --- START ---  */
@@ -97,12 +124,18 @@
 .head-fonts-size{
      font-size: 40px;
 }
+.titles-fonts-size{
+     font-size: 25px;
+}
 .art-fonts-size{
      font-size: 20px;
 }
 /* Font Decoration */
 .a-no-underline{
      text-decoration: none;
+}
+.bOld{
+     font-weight: bold;
 }
 /* placeholder*/
  .placeholder::placeholder{

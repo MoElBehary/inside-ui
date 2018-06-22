@@ -1,0 +1,26 @@
+/* main contaner */
+.main-contaner{
+     width: 860px;
+     height: 440px;
+}
+/* header */
+.step-icon{
+     width:70px;
+     height:70px;
+     border-radius: 50%;
+}
+.step-num{
+     padding:20px 0;
+}
+/* ccolumn */
+.column{
+     width:260px;
+     height: 300px;
+}
+.butt{
+     background:green;
+     width:260px;
+     height: 40px;
+     float: left;
+     margin: 0 5px;
+}
