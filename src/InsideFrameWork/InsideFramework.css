@@ -130,18 +130,29 @@
 .art-fonts-size{
      font-size: 20px;
 }
-/* Font Decoration */
+.p-fonts-size{
+     font-size: 15px;
+}
 .a-no-underline{
      text-decoration: none;
 }
 .bOld{
      font-weight: bold;
 }
+/*  Decoration */
+.shadow-s{
+     box-shadow: 1px 1px 4px rgba(112, 112, 112, 0.3);
+}
 /* placeholder*/
  .placeholder::placeholder{
      color:#323031;
      opacity: .5;
      font-size:20px;
+}
+.placeholder-s::placeholder{
+    color:#323031;
+    opacity: .5;
+    font-size:15px;
 
 }
 /* fonts === END === */

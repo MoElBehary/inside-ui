@@ -16,11 +16,18 @@
 .column{
      width:260px;
      height: 300px;
+     position: relative;
 }
-.butt{
-     background:green;
-     width:260px;
+.sing-inputs{
+     width:220px;
      height: 40px;
-     float: left;
-     margin: 0 5px;
+     border-radius: 4px;
+}
+.butt-next{
+     width: 100px;
+     height: 40px;
+     position: absolute;
+     bottom: 20px;
+     right:0;
+     border-radius: 4px
 }

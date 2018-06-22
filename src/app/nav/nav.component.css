@@ -41,9 +41,15 @@
      height: 20px;
      width: 20px;
 }
+.x{
+     display: inline-block;
+}
 .nav-sign-up{
      height:30px;
      border-radius: 4px 0 0 4px ;
+}
+.nav-sign-up2{
+     height:30px;
 }
 .nav-sign-in{
      height:30px;
