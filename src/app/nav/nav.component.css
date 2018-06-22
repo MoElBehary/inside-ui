@@ -1,0 +1,85 @@
+.nav{
+     height:40px;
+}
+.holder-one{
+     height: 30px;
+     width: 413px;
+     padding: 5px 0;
+     display: inline-block;
+}
+.holder-user-fun{
+     display: inline-block;
+     height: 30px;
+     width: 60px;
+     padding: 5px 0;
+}
+.holder-user-acc{
+     display: inline-block;
+     height: 30px;
+     width: 60px;
+     padding: 5px 0;
+}
+.inside-logo{
+     margin: 5px 40px 5px 0;
+     height:20px;
+}
+.search-bar{
+     width: 260px;
+     height:30px;
+     border-radius: 4px 0 0 4px;
+}
+.search-button{
+     height:30px;
+     width:30px;
+     background-image: url("../../assets/Icon/search.png");
+     background-position: center;
+     background-repeat: no-repeat;
+}
+.cart-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/cart.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 40px 5px 0;
+}
+.store-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/store.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 40px 5px 0;
+}
+.avatar-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/avatar.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 80px 5px 0;
+}
+.msg-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/msg.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 40px 5px ;
+}
+.noti-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/msg.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 40px 5px ;
+}
+.user-button{
+     height:20px;
+     width:20px;
+     background-image: url("../../assets/Icon/msg.png");
+     background-position: center;
+     background-repeat: no-repeat;
+     margin: 5px 40px 5px ;
+}
